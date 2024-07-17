@@ -74,7 +74,7 @@ The system is broken down into core components to ensure modularity and scalabil
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Aryan-788/BookVerse.git
+    git clone https://github.com/username/BookVerse.git
     ```
 2. Navigate to the project directory:
     ```bash
